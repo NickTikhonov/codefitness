@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle codefitness",
+        "command": "codefitness:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "codefitness",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "codefitness:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
