@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "codefitness:toggle"
+    "atom-workspace": ["codefitness:toggle", "core:save"]
   },
   "repository": "https://github.com/atom/codefitness",
   "license": "MIT",
