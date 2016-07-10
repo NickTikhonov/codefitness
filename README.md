@@ -2,7 +2,7 @@
 
 Discover features of your favorite language by unlocking achievements
 
-![helloworld achievement](https://cloud.githubusercontent.com/assets/6755554/16711828/666c2092-4624-11e6-8b79-4742ead50af1.gif)
+![helloworld achievement](demo.gif)
 
 ## Installing
 
