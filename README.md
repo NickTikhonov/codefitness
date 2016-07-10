@@ -1,5 +1,16 @@
-# codefitness package
+# CodeFitness
 
-A short description of your package.
+Discover features of your favorite language by unlocking achievements
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![helloworld achievement](https://cloud.githubusercontent.com/assets/6755554/16711828/666c2092-4624-11e6-8b79-4742ead50af1.gif)
+
+## Installing
+
+Make sure you have Atom installed along with the command line tools, and run:
+
+```
+git clone https://github.com/nicktikhonov/codefitness
+cd codefitness
+npm install
+apm link
+```
